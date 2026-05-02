@@ -45,7 +45,7 @@ const recommendations: Recommendation[] = [
     company: "John Deere",
     relationship: "Project lead on the 2D drawing automation tool",
     quote:
-      "I had the opportunity to work with Omkar on our 2D drawing automation project at John Deere, where I led the team and he was one of the key contributors. What impressed me most was how quickly he understood the problem space and translated it into practical solutions. He didn't just execute tasks, he actively thought about how to improve the pipeline end to end. His technical depth combined with a proactive attitude made him a reliable presence on the team. I'd recommend him without hesitation for any role at the intersection of AI and engineering.",
+      "I had the privilege of collaborating with Omkar during his internship, where he contributed to several AI and automation projects. His energy and eagerness to learn were remarkable, especially in exploring and implementing GenAI technologies and making them practically workable. As an intern, grasping complex concepts and applying them effectively is never easy, yet Omkar managed it with confidence. Though he started with limited business knowledge, he quickly picked up the essentials and worked towards delivering solutions aligned with business needs. Omkar's adaptability, curiosity, and commitment to learning made him a valuable contributor, and I am confident he will continue to excel in his career.",
     linkedIn: "",
     initials: "LD",
     accentColor: "#16A34A",
