@@ -38,4 +38,9 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+# project meta / dev notes (not relevant for public repo)
+commit.md
+CLAUDE.md
+AGENTS.md
 next-env.d.ts
